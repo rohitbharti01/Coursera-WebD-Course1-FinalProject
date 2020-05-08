@@ -1,0 +1,19 @@
+{
+  "name": "coursera-webd-course1-finalproject",
+  "version": "1.0.0",
+  "description": "\"Port:80 A \"Home\" Shifting Website!\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject.git"
+  },
+  "author": "Rohit Bharti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject/issues"
+  },
+  "homepage": "https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject#readme"
+}
