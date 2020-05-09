@@ -4,7 +4,9 @@
   "description": "\"Port:80 A \"Home\" Shifting Website!\"",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject/issues"
   },
-  "homepage": "https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject#readme"
+  "homepage": "https://github.com/rohitbharti01/Coursera-WebD-Course1-FinalProject#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
